@@ -79,6 +79,17 @@ a {
     border-image:  linear-gradient(to right, rgb(255, 108, 108), rgb(255, 196, 87)) 1;
 }
 
-.footer-link {
-    margin: 2.5%;
+#footer p {
+    width: fit-content;
+}
+
+.back-button {
+  background-color: whitesmoke;
+  padding: 1%;
+  border-radius: 1.05em;
+  margin: 2%;
+}
+
+.back-button a {
+  color: black;
 }
