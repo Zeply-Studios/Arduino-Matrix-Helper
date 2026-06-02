@@ -1,5 +1,3 @@
 # Arduino-Matrix-Helper
-Coded to generate LED Matrix code for Arduino since it's pretty painful to program without.
-Uses vanilla JavaScript, HTML/CSS
-
-By Zeply Studios (Joseph Bobby)
+This project was made for Developers who are working with LED matrixes in Arduinos. 
+Coding these matrixes on your own can be rather painful, so this project gives you a visual display for you to generate matrix code.
